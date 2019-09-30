@@ -1,0 +1,16 @@
+
+
+
+
+h1 {
+  font: 400 60px/1.2 'Merienda One';
+  color: #FF3330;
+  text-shadow: 3px 3px 3px #fff;
+}
+h2 {
+  font: 350 25px/1.2 'Merienda One';
+  color: #FFA07A;
+  text-shadow: 3px 3px 3px #fff;
+}
+
+.floatRight{float:right;margin-left:20px}
